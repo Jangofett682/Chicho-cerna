@@ -1,0 +1,13 @@
+Mas ejercicios
+
+1- Realizar un programa en java, que pida dos números por pantalla, luego imprimir si 
+	los dos numeros son pares.
+2- Realizar un programa en java para adivinar un número al azar (del 1 al 10), imprimir si
+el numero acertado es par. (2 puntos)
+3- Realizar un programa en java que pida 10 números menores a 100, guardarlos en un
+array, luego indicar si todos los números ingresados son pares ( 3 puntos + 1
+puntos si se utiliza acumuladores booleanos vistos en clase )
+4- Realizar un programa en java para cargar números en una matriz de dos dimensiones, de
+6 filas y 5 columnas (hardcodear datos de prueba) , indicar si hay alguna fila que tenga
+todos los números pares ( 3 puntos + 1 punto si se utilizan acumuladores
+booleanos)

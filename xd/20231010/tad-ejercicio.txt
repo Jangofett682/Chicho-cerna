@@ -1,0 +1,9 @@
+TAD - Cliente
+Datos: nombre,apellido,edad,telefonos
+Operaciones: agregarTelefono
+IREP: nombres no vacios, edad > 0, por lo menos 1 tel.
+
+TAD - Sistema
+Datos: descripcion,fecha, clientes
+Operaciones: agregarClientes, quitarClientes
+IREP: hasta 5 clientes

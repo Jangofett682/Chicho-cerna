@@ -1,0 +1,16 @@
+Posibles TAD
+Corredor
+Campeonato
+Categoria (descarto)
+Tiempo (descarto)
+
+TAD Corredor (es un participante)
+Datos: nombre, posicion, tiempo, categoria(Generico)
+
+TAD Categorias (ver)
+Datos: 
+
+TAD Campeonato
+Datos: corredores(categoria generica)
+Operaciones: agregarCorredor, listarPrimeros3Participantes
+IREP: senior < 500, junior< 1000, professional < 100

@@ -1,0 +1,12 @@
+Tipo Abstracto de dato TAD
+Operaciones
+Invariante de representacion IREP
+
+TAD Cliente
+Datos: apellido, dni
+IREP: apellido no vacio
+
+TAD Sistema
+Datos: nombre, clientes
+Operaciones: agregarCliente
+IREP: hasta 10 clientes

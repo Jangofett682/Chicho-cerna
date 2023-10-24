@@ -1,0 +1,32 @@
+package simu;
+import java.util.*;
+
+public class ejer3 {
+  
+	public static void main(String[] args) {
+		 int may=0;
+		int[] numeros =  new int[10];
+        boolean Mayora30 = true;
+        Scanner Scan = new Scanner(System.in);
+        for(int i = 1; i < numeros.length; i++) {
+            System.out.println("Ingresar el numero " + i);
+            numeros[i] =  Scan.nextInt();
+            if( numeros[i] < 100){
+
+             if(numeros[i] > 30){
+            	 Mayora30 = false;
+            	 may++;
+            }else{
+            }
+            
+            }else{
+                System.out.println("El numero es mayor a 100 ingresar uno nuevo");
+                i--;
+            }
+        
+        
+        }
+        
+        System.out.println("Los numeros son mayores a 30 son: "+may);
+    }
+}
